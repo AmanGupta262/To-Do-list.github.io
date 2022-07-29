@@ -46,5 +46,5 @@ function boom() {
     else {
         document.getElementById("3").appendChild(lim);
     }
-    document.getElementById("1").value="
+    document.getElementById("1").value="";
 }
